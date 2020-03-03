@@ -7,7 +7,7 @@ end
 
 def raise_hand
 
-9.times{super}
+10.times{super}
 end
 
 end
