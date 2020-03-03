@@ -7,7 +7,7 @@ end
 
 def raise_hand
   super
-10.times puts phrase
+10.times puts @@phrase
 end
 
 end
